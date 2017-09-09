@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  First Label
 //
-//  Created by Yeonhee Seo on 2017-09-09.
+//  Created by Ilgu Lee on 2017-09-09.
 //  Copyright © 2017 Ilgu Lee. All rights reserved.
 //
 
